@@ -12,6 +12,6 @@ I have opened an [issue](https://github.com/soypat/cyw43439/issues/51) to get so
 
 ## References
 
-[Pico W access point example code](https://github.com/raspberrypi/pico-examples/blob/master/pico_w/wifi/access_point/picow_access_point.c)
-[Another driver, just for reference](https://github.com/georgerobotics/cyw43-driver/tree/8ef38a6d32c54f850bff8f189bdca19ded33792a/src)
-[Infineon Data Sheet/App Notes](https://github.com/gherlein/picoap/tree/main/docs)
+* [Pico W access point example code](https://github.com/raspberrypi/pico-examples/blob/master/pico_w/wifi/access_point/picow_access_point.c)
+* [Another driver, just for reference](https://github.com/georgerobotics/cyw43-driver/tree/8ef38a6d32c54f850bff8f189bdca19ded33792a/src)
+* [Infineon Data Sheet/App Notes](https://github.com/gherlein/picoap/tree/main/docs)
